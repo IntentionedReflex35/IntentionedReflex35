@@ -2,7 +2,6 @@
 
 ### *Move stealthy, execute in silence.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jeshurun-nana-kojo-ansah-08bbb9408)
 [![Profile Views](https://komarev.com/ghpvc/?username=IntentionedReflex35&style=for-the-badge&color=0D1117)](https://github.com/IntentionedReflex35)
 
 ---
